@@ -120,7 +120,7 @@ section{
 }
 .home-text p{
     color: var(--second-color);
-    font-size: var(--p-font);
+    font-size: 2rem;
     line-height: 1.8;
     margin-bottom: 40px;
 }
